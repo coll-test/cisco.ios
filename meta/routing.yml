@@ -1,0 +1,39 @@
+plugin_routing:
+  integration:
+    parsed:
+      deprecation:
+        removal_date: TBD
+        warning_text: see plugin documentation for details
+    populate_config:
+      deprecation:
+        removal_date: TBD
+        warning_text: see plugin documentation for details
+    remove_config:
+      deprecation:
+        removal_date: TBD
+        warning_text: see plugin documentation for details
+    enable_lldp:
+      deprecation:
+        removal_date: TBD
+        warning_text: see plugin documentation for details
+    intial_setup_config:
+      deprecation:
+        removal_date: TBD
+        warning_text: see plugin documentation for details
+  modules:
+    ios_interface:
+      deprecation:
+        removal_date: TBD
+        warning_text: see plugin documentation for details
+    ios_l2_interface:
+      deprecation:
+        removal_date: TBD
+        warning_text: see plugin documentation for details
+    ios_l3_interface:
+      deprecation:
+        removal_date: TBD
+        warning_text: see plugin documentation for details
+    ios_vlan:
+      deprecation:
+        removal_date: TBD
+        warning_text: see plugin documentation for details
